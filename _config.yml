@@ -1,5 +1,5 @@
 title: Pessimistic Operator # The title of the blog
-author: Martin Roberts # Your name 
+author: Martin Roberts # Your name
 email: dokoissho@sdf.org # your email shown in the footer
 baseurl: "/pessimistic-operator" # this is your site's root address.
 url: ""
@@ -7,7 +7,7 @@ description: # this means to ignore newlines until "show_excerpts:"
   Web publishing for the rest of us
 show_excerpts: false # set to true to show excerpts on the homepage
 livereload: true
-  
+
 # Moving date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 moving:
@@ -18,29 +18,29 @@ moving:
 
   # generate social links in about page.
   social_links:
-    twitter: mroberts333 
+    twitter: mroberts333
     github:  mroberts1
     # rss: RSS
-    # dribbble: 
+    # dribbble:
     facebook: mr05301
-    # flickr:   
-    # instagram: 
+    # flickr:
+    # instagram:
     # linkedin: yizheng-huang
-    # pinterest: 
-    # youtube: 
-    # youtube_channel: 
-    # youtube_channel_name: 
+    # pinterest:
+    # youtube:
+    # youtube_channel:
+    # youtube_channel_name:
     telegram: dokoissho
-    # googleplus: 
-    # microdotblog: 
-    # reddit: 
+    # googleplus:
+    # microdotblog:
+    # reddit:
 
     # Mastodon instances
     mastodon:
-     - username: dokoissho  
+     - username: dokoissho
        instance: merveilles.town
-    # - username: 
-    #   instance: 
+    # - username:
+    #   instance:
 
 # Build settings
 theme: moving # note, please use huangyz0918/moving if you want to publish to Github Pages.
